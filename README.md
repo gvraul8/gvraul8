@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CD8FF66,50:7EC8FF40,100:0d1117&height=110&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:149eca99,50:58A6FF77,100:0d1117&height=110&section=header" width="100%" alt=""/>
 
 <h1 align="center">Raúl González Velázquez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=9CD8FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+software;GlobalSuite+Solutions;Node+%C2%B7+React+%C2%B7+Kafka+%C2%B7+MongoDB" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1200&color=149eca&center=true&vCenter=true&width=600&lines=Desarrollador+de+software;GlobalSuite+Solutions;Node+%C2%B7+React+%C2%B7+Kafka+%C2%B7+MongoDB" alt=""/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7EC8FF4D&height=34&section=header&text=Sobre%20m%C3%AD&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=149eca88&height=34&section=header&text=Sobre%20m%C3%AD&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 Soy <strong>ingeniero informático</strong> (ESI Ciudad Real, <a href="https://www.uclm.es/" target="_blank" rel="noopener noreferrer">UCLM</a>) y desarrollo software en <a href="https://www.globalsuitesolutions.com/es/" target="_blank" rel="noopener noreferrer"><strong>GlobalSuite Solutions</strong></a>.
 
-Trabajo de extremo a extremo en la plataforma: <strong>front y back</strong>, <strong>Apache Kafka</strong>, <strong>MongoDB</strong>, <strong>Node.js</strong> y <strong>React</strong>.
+Participo en el desarrollo y el mantenimiento de la plataforma, de la interfaz a los datos, con <strong>Node.js</strong>, <strong>React</strong>, <strong>Apache Kafka</strong> y <strong>MongoDB</strong>.
 
 Enfoque <strong>AI First</strong> en el día a día. Colaboración con <a href="https://afalbolanos.es/" target="_blank" rel="noopener noreferrer"><strong>AFAL Bolaños</strong></a>.
 
@@ -42,26 +42,37 @@ Enfoque <strong>AI First</strong> en el día a día. Colaboración con <a href="
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7EC8FF4D&height=34&section=header&text=Stack&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=149eca88&height=34&section=header&text=Habilidades&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
 
 <br/>
 
+<p align="center"><strong>Stack principal</strong></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,nestjs,ts,js,mongodb,mysql,java,python,flutter,gitlab,git,html,css&perline=7" alt=""/>
+  <img src="https://gvraul.com/assets/img/icon_knowledge/nodejs.png" width="52" alt=""/>
+  &nbsp;
+  <img src="https://gvraul.com/assets/img/icon_knowledge/react.png" width="52" alt=""/>
+  &nbsp;
+  <img src="https://gvraul.com/assets/img/icon_knowledge/kafka.png" width="52" alt=""/>
+  &nbsp;
+  <img src="https://gvraul.com/assets/img/icon_knowledge/mongodb.png" width="52" alt=""/>
+  &nbsp;
+  <img src="https://gvraul.com/assets/img/icon_knowledge/cursor.svg" width="52" alt=""/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt=""/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt=""/>
+  <sub>Node.js · React · Apache Kafka · MongoDB · Cursor</sub>
+</p>
+
+<p align="center"><strong>Otras</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,ts,js,mysql,java,python,flutter,gitlab,git,html,css&perline=7" alt=""/>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7EC8FF4D&height=34&section=header&text=Proyectos&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=149eca88&height=34&section=header&text=Proyectos&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
 
 <br/>
 
@@ -116,7 +127,7 @@ Enfoque <strong>AI First</strong> en el día a día. Colaboración con <a href="
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7EC8FF4D&height=34&section=header&text=Formaci%C3%B3n&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=149eca88&height=34&section=header&text=Formaci%C3%B3n&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
 
 <br/>
 
@@ -129,7 +140,7 @@ Enfoque <strong>AI First</strong> en el día a día. Colaboración con <a href="
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=7EC8FF4D&height=34&section=header&text=Contacto&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=149eca88&height=34&section=header&text=Contacto&fontSize=17&fontColor=ffffff" width="100%" alt=""/>
 
 <br/>
 
@@ -143,7 +154,7 @@ Enfoque <strong>AI First</strong> en el día a día. Colaboración con <a href="
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7EC8FF35,100:0d1117&height=70&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:149eca66,100:0d1117&height=70&section=footer" width="100%" alt=""/>
 
 <p align="center">
   <sub><a href="https://gvraul.com" target="_blank" rel="noopener noreferrer">gvraul.com</a> · 2026</sub>
