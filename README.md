@@ -21,10 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gvraul8&label=Visitas+al+perfil&color=149eca&style=flat-square" alt="Visitas al perfil"/>
-</p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=149eca&height=36&section=header&text=Sobre+m%C3%AD&fontSize=18&fontColor=ffffff" width="100%" alt="Sobre mí"/>
